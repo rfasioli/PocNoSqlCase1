@@ -1,0 +1,11 @@
+rootProject.name = 'PocNoSqlCase1'
+include 'lib-extended-messaging'
+include 'lib-extended-messaging-cache-jedis-impl'
+include 'lib-extended-messaging-jms-impl'
+include 'poc-nosql-case1-mod1'
+include 'poc-nosql-case1-mod2'
+include 'poc-nosql-case1-mod3'
+include 'poc-nosql-case1-mod4'
+include 'poc-nosql-case1-mod5'
+include 'poc-nosql-case1-mod4B'
+
